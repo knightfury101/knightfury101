@@ -35,8 +35,8 @@
     <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,go," /><br/>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,planetscale,prisma,supabase,redis" /><br/>
     <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws,kubernetes,vercel" /><br/>
-    <img src="https://skillicons.dev/icons?i=postman,latex" /><br/>
     <img src="https://skillicons.dev/icons?i=ae,ps,ai,blender,figma,xd" /><br/>
+    <img src="https://skillicons.dev/icons?i=postman,latex" /><br/>    
 </div>
 
 <br/>

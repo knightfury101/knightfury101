@@ -55,9 +55,9 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=knightfury101&theme=tokyonight" alt="GitHub Streak" /></a>
-  (https://github-readme-stats.vercel.app/api?username=knightfury101)](https://github.com/knightfury101/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightfury101)](https://github.com/knightfury101/github-readme-stats)
+  <img alt="Aditya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=knightfury101&show_icons=true&theme=transparent"/>
+    <br />
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightfury101&layout=compact&&langs_count=8"/>
 </div>
 
 <br/><br/>

@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=knightfury101.knightfury101" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Singh+Rajput!;" />
 </h1>
   <h3 align="center">An enthusiastic Full-Stack Developer from United States</h3>
   <br/>
@@ -66,10 +66,8 @@
 
 <br/>
 
-<h3 align="center">
-  <a href="https://git.io/typing.svg>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot+Me+A+Message+On+LinkedIn;+I'm+Always+Ready+To+Collab!;" />
-</a>
-  </h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hit+Me+Up+On+LinkedIn;+I'm+Always+Ready+To+Collab!;" />
+</h1>
 
 <br/>

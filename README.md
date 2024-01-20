@@ -57,7 +57,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=knightfury101&theme=tokyonight" alt="GitHub Streak" /></a>
   (https://github-readme-stats.vercel.app/api?username=knightfury101)](https://github.com/knightfury101/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightfury101)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightfury101)](https://github.com/knightfury101/github-readme-stats)
 </div>
 
 <br/><br/>
@@ -67,7 +67,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hit+Me+Up+On+LinkedIn;+I'm+Always+Ready+To+Collab!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hit+Me+Up+On+LinkedIn...;+I'm+Always+Ready+To+Collab!;" />
 </h1>
 
 <br/>

@@ -54,10 +54,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=knightfury101&theme=tokyonight" alt="GitHub Streak" /></a>
-  <img alt="Aditya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=knightfury101&show_icons=true&theme=transparent"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=knightfury101&theme=synthwave" alt="GitHub Streak" /></a>
+  <img alt="Aditya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=knightfury101&show_icons=true&theme=synthwave&rank_icon=github"/>
     <br />
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightfury101&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightfury101&layout=pie&theme=synthwave&&langs_count=8"/>
 </div>
 
 <br/><br/>
